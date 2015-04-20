@@ -1,0 +1,19 @@
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+
+// Import custom Bootstrap variables
+@import "variables";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+$fa-font-path: "../bower_components/fontawesome/fonts";
+
+@import "../bower_components/fontawesome/scss/font-awesome.scss";
+
+@import "bootswatch";
+
+
+.system-messages {
+    padding-left: 0;
+}

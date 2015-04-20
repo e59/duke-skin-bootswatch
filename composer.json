@@ -1,0 +1,8 @@
+{
+    "name": "cangulo/duke-skin-bootswatch",
+    "description": "Duke Bootswatch",
+    "homepage": "http://calmaamigo.com/",
+    "version": "dev-master",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
