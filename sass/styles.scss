@@ -3,7 +3,7 @@
 
 // Import custom Bootstrap variables
 @import "variables";
-
+$icon-font-path:          "../fonts/bootstrap/";
 // Import Bootstrap for Sass
 @import "bootstrap";
 
@@ -16,4 +16,9 @@ $fa-font-path: "../bower_components/fontawesome/fonts";
 
 .system-messages {
     padding-left: 0;
+}
+
+.form_search .radioitem {
+    display: inline;
+    margin-left: 1em;
 }
