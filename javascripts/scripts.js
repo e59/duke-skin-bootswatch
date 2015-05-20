@@ -34,7 +34,16 @@ $(function () {
         aDec: ',',
         aSign: 'R$ ',
         mDec: '2',
-        wEmpty: 'zero',
+        wEmpty: 'empty',
+        lZero: 'deny'
+    });
+
+    $('.number').autoNumeric({
+        aSep: '.',
+        aDec: ',',
+        aSign: '',
+        mDec: '0',
+        wEmpty: 'empty',
         lZero: 'deny'
     });
 

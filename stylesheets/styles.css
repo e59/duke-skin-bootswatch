@@ -371,8 +371,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.eot?1431342906);
-  src: url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.eot?&1431342906#iefix) format("embedded-opentype"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.woff2?1431342906) format("woff2"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.woff?1431342906) format("woff"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.ttf?1431342906) format("truetype"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.svg?1431342906#glyphicons_halflingsregular) format("svg");
+  src: url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.eot?1431607392);
+  src: url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.eot?&1431607392#iefix) format("embedded-opentype"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.woff2?1431607393) format("woff2"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.woff?1431607393) format("woff"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.ttf?1431607393) format("truetype"), url(../fonts/../fonts/bootstrap/glyphicons-halflings-regular.svg?1431607393#glyphicons_halflingsregular) format("svg");
 }
 /* line 22, ../../../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_glyphicons.scss */
 .glyphicon {
@@ -11676,4 +11676,9 @@ a.list-group-item-danger.active:hover, a.list-group-item-danger.active:focus {
 .form_search .radioitem {
   display: inline;
   margin-left: 1em;
+}
+
+/* line 26, ../sass/styles.scss */
+.element {
+  position: relative;
 }
