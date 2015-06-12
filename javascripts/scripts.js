@@ -1,4 +1,8 @@
 $(function () {
+
+    
+
+
     $('[data-mask]').each(function (i, item) {
         var diz = $(item);
         diz.mask(diz.data('mask'), {placeholder: ' '});
@@ -129,6 +133,13 @@ $(function () {
             }
         });
 
+    });
+
+    $('.multiselect').select2({
+        placeholder: 'Selecione as opções',
+        allowClear: true,
+        SelectOnClose: true,
+        closeOnSelect: false
     });
 
 
