@@ -30,3 +30,7 @@ $fa-font-path: "../bower_components/fontawesome/fonts";
 .modal-dialog {
     z-index: 9999;
 }
+
+.modal-backdrop {
+    z-index: 0 !important;
+}
