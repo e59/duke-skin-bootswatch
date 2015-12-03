@@ -15,7 +15,7 @@ bower_components/autoNumeric/autoNumeric.js
 bower_components/magnific-popup/dist/jquery.magnific-popup.js
 bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js
 bower_components/knockout/dist/knockout.js
-bower_components/select2/select2.js
-bower_components/select2/select2_locale_pt-BR.js
+bower_components/select2/dist/js/select2.js
+bower_components/select2/dist/js/i18n/pt-BR.js
 javascripts/upload.js
 javascripts/scripts.js

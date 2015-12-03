@@ -1,8 +1,7 @@
 bower_components/bootstrap-submenu/dist/css/bootstrap-submenu.css
 bower_components/summernote/dist/summernote.css
 bower_components/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.css
-bower_components/select2/select2.css
-bower_components/select2/select2-bootstrap.css
+bower_components/select2/dist/css/select2.css
 bower_components/magnific-popup/dist/magnific-popup.css
 stylesheets/styles.css
 
